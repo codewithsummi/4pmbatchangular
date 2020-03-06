@@ -15,6 +15,7 @@ import { AuthGuard} from './guards/auth.guard';
 import { TodoComponent } from './todo/todo.component';
 import {NgxPaginationModule} from 'ngx-pagination';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import { TestComponent } from './test/test.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,7 +26,8 @@ import { Ng2SearchPipeModule } from 'ng2-search-filter';
     FooterComponent,
     ReactiveComponent,
     AttrDirective,
-    TodoComponent
+    TodoComponent,
+    TestComponent
   ],
   imports: [
     BrowserModule,
