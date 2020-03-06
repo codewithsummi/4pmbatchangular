@@ -16,6 +16,7 @@ import { TodoComponent } from './todo/todo.component';
 import {NgxPaginationModule} from 'ngx-pagination';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { TestComponent } from './test/test.component';
+import { TestsumitComponent } from './testsumit/testsumit.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -27,7 +28,8 @@ import { TestComponent } from './test/test.component';
     ReactiveComponent,
     AttrDirective,
     TodoComponent,
-    TestComponent
+    TestComponent,
+    TestsumitComponent
   ],
   imports: [
     BrowserModule,
