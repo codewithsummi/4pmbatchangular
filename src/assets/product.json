@@ -1,0 +1,9 @@
+
+    {"err":0,"pdata":
+               [{"id":1 , "pname":"xyz","price":34567},
+    {"id":2 , "pname":"abc","price":44567},
+    {"id":3 , "pname":"zxc","price":24567},
+    {"id":4 , "pname":"yui","price":64567},
+    {"id":5 , "pname":"dfg","price":84567},
+    {"id":6 , "pname":"aaa","price":94567}]
+}
